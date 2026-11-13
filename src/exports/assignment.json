@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604064",
+ "ten": "LeTuanAnh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "tuananhcv05",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000103970.jpg",
+  "000000137767.jpg",
+  "000000295358.jpg",
+  "000000314154.jpg",
+  "000000564304.jpg",
+  "000000030960.jpg",
+  "000000467300.jpg",
+  "000000580257.jpg",
+  "000000043500.jpg",
+  "000000515309.jpg",
+  "000000323705.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_155465.jpg",
+  "face_3348.jpg",
+  "face_137371.jpg",
+  "face_223746.jpg",
+  "face_380754.jpg",
+  "face_256814.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 3,
+   "job_id": 3,
+   "task_name": "persons-LeTuanAnh"
+  },
+  "faces": {
+   "task_id": 4,
+   "job_id": 4,
+   "task_name": "faces-LeTuanAnh"
+  }
+ }
+}
